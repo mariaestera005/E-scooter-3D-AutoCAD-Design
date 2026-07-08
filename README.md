@@ -35,6 +35,7 @@ Proiectul acoperă proiectarea integrală a componentelor structurale, mecanice 
 * **Interfața de Control (Ghidonul):** Include consolele de prindere, manetele de cauciuc pentru aderență, acceleratorul (maneta de accelerație), ansamblul farului frontal LED integrat și afișajul electronic (Display LCD).
 * **Sistemul de Siguranță:** Manetă de frână ergonomică modelată prin linii complexe `POLYLINE` și `SPLINE`, cuplată cu un disc de frână dotat cu orificii de ventilație pentru disiparea termică.
 * **Elemente de Rulare:** Roata din față cu butuc solid și spițe distribuite simetric, anvelope și jante.
+  
 ---
 
 ## 🚀 Puncte Forte ale Proiectului
