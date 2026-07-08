@@ -1,4 +1,4 @@
-# Proiectare Tehnică și Modelare Trotinetă Electrică (E-Scooter AutoCAD)
+# 🛴 Proiectare Tehnică și Modelare Trotinetă Electrică (E-Scooter AutoCAD)
 
 **E-Scooter Design** este un proiect avansat de proiectare asistată de calculator (CAD) realizat în **Autodesk AutoCAD 2026**. Proiectul propune modelarea completă și precisă a unei trotinete electrice moderne, îmbinând rigoarea desenului tehnic 2D cu complexitatea modelării geometrice 3D și a asamblării mecanice.
 
