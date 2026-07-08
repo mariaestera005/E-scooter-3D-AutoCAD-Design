@@ -21,7 +21,7 @@ Proiectul integrează principii solide de design industrial și inginerie mecani
 * **Integritate Structurală:** Șasiul, furca și mecanismul de pliere au fost modelate 3D pentru a asigura rezistența la stres mecanic și o distribuție optimă a masei.
 * **Toleranțe și Articulații:** Proiectarea detaliată a sistemului de direcție, verificând coliziunile (clash detection) și toleranțele la asamblarea componentelor mobile.
 * **Randare Fotorealistă:** Aplicarea de texturi și proprietăți fizice materialelor (aliaje de aluminiu, poliuretan, ABS) pentru vizualizarea finală a produsului. 
-* 
+
 
 ---
 
