@@ -18,7 +18,7 @@ Proiectul integrează principii solide de design industrial și inginerie mecani
 ### 2. Modelare 3D și Asamblare Mecanică
 * **Modelare Solidă Complexă:** Transformarea schițelor atomice 2D în corpuri tridimensionale folosind operații geometrice avansate: `EXTRUDE`, `PRESSPULL`, `BOX`, `CHAMFER` și `FILLET / FILLETEDGE` pentru rotunjirea ergonomică a muchiilor.
 * **Integritate Structurală:** Șasiul, furca și mecanismul de pliere au fost modelate 3D pentru a asigura rezistența la stres mecanic și o distribuție optimă a masei.
-* **Toleranțe și Articulații:** Proiectarea detaliată a sistemului de direcție, verificând coliziunile (clash detection) și toleranțele la asamblarea componentelor mobile.
+* **Toleranțe:** Proiectarea detaliată a sistemului de direcție, verificând coliziunile (clash detection) și toleranțele la asamblarea componentelor mobile.
 * **Randare Fotorealistă:** Aplicarea de texturi și proprietăți fizice materialelor (aliaje de aluminiu, poliuretan, ABS) pentru vizualizarea finală a produsului. 
 
 
@@ -31,7 +31,7 @@ Proiectul acoperă proiectarea integrală a componentelor structurale, mecanice 
 * **Șasiul și Direcția:** Platforma principală (Deck) de dimensiuni 49 x 16 cm cu decupaj central optimizat, tubul oblic de prindere (rigidizare), tubul central de direcție de 65 cm și furca frontală/posterioară pentru prinderea axelor.
 * **Interfața de Control (Ghidonul):** Include consolele de prindere, manetele de cauciuc pentru aderență, acceleratorul (maneta de accelerație), ansamblul farului frontal LED integrat și afișajul electronic (Display LCD).
 * **Sistemul de Siguranță:** Manetă de frână ergonomică modelată prin linii complexe `POLYLINE` și `SPLINE`, cuplată cu un disc de frână dotat cu orificii de ventilație pentru disiparea termică.
-* **Elemente de Rulare:** Roata din față cu butuc solid și spițe distribuite simetric, anvelope și jante.
+* **Elemente de Rulare:** Roata din față cu butuc solid și spițe distribuite simetric, anvelope și jante. 
 
 
 ## 🚀 Puncte Forte ale Proiectului
