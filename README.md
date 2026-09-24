@@ -5,7 +5,8 @@
 Documentația tehnică demonstrează transpunerea exactă a conceptelor inginerești în fișiere gata de producție, utilizând standarde industriale de organizare și management al straturilor.
 
 
-<img width="1920" height="1080" alt="Trotineta electrica 3D dupa randare" src="https://github.com/user-attachments/assets/b96a37a2-ffef-44ed-a824-448bbf72a1b6" />
+<img width="422" height="266" alt="image" src="https://github.com/user-attachments/assets/f3122981-2403-42f4-8ee1-951f0b8d60ff" />
+
 
 
 
