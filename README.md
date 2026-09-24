@@ -5,7 +5,8 @@
 Documentația tehnică demonstrează transpunerea exactă a conceptelor inginerești în fișiere gata de producție, utilizând standarde industriale de organizare și management al straturilor.
 
 
-<img width="278" height="227" alt="image" src="https://github.com/user-attachments/assets/c6d43185-74ac-4400-a509-7ca15abb2c5c" />
+<img width="1920" height="1080" alt="Trotineta electrica 3D dupa randare" src="https://github.com/user-attachments/assets/b96a37a2-ffef-44ed-a824-448bbf72a1b6" />
+
 
 
 ## 🛠️ Tehnologii, Funcții CAD și Concepte Tehnice
